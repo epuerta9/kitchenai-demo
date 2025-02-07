@@ -32,7 +32,7 @@ Then activate it:
 
 ### 2️⃣ Start the KitchenAI Control Plane  
 
-You'll need to spin up the KitchenAI control plane. Follow the instructions in the [KitchenAI README](https://github.com/epuerta9/kitchenai) to get it running. Once done, your local control plane should be available at:
+You'll need to spin up the KitchenAI control plane. Follow the instructions in the  [KitchenAI self hosting control plane section](https://github.com/epuerta9/kitchenai?tab=readme-ov-file#self-hosting-the-control-plane) to get it running. Once done, your local control plane should be available at:
 
 🔗 **Dashboard:** [http://localhost:8001](http://localhost:8001)
 
